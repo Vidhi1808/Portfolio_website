@@ -29,7 +29,6 @@ This is a personal portfolio website showcasing my projects, skills, and service
 - CSS3
 - JavaScript
 - Boxicons
-- Typed.js
 
 ## Setup
 
